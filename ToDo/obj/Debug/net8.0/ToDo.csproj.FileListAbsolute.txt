@@ -1,0 +1,15 @@
+C:\taller25\tptaller\tp8\tl1-tp8-2025-zequi23\ToDo\bin\Debug\net8.0\ToDo.exe
+C:\taller25\tptaller\tp8\tl1-tp8-2025-zequi23\ToDo\bin\Debug\net8.0\ToDo.deps.json
+C:\taller25\tptaller\tp8\tl1-tp8-2025-zequi23\ToDo\bin\Debug\net8.0\ToDo.runtimeconfig.json
+C:\taller25\tptaller\tp8\tl1-tp8-2025-zequi23\ToDo\bin\Debug\net8.0\ToDo.dll
+C:\taller25\tptaller\tp8\tl1-tp8-2025-zequi23\ToDo\bin\Debug\net8.0\ToDo.pdb
+C:\taller25\tptaller\tp8\tl1-tp8-2025-zequi23\ToDo\obj\Debug\net8.0\ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\taller25\tptaller\tp8\tl1-tp8-2025-zequi23\ToDo\obj\Debug\net8.0\ToDo.AssemblyInfoInputs.cache
+C:\taller25\tptaller\tp8\tl1-tp8-2025-zequi23\ToDo\obj\Debug\net8.0\ToDo.AssemblyInfo.cs
+C:\taller25\tptaller\tp8\tl1-tp8-2025-zequi23\ToDo\obj\Debug\net8.0\ToDo.csproj.CoreCompileInputs.cache
+C:\taller25\tptaller\tp8\tl1-tp8-2025-zequi23\ToDo\obj\Debug\net8.0\ToDo.sourcelink.json
+C:\taller25\tptaller\tp8\tl1-tp8-2025-zequi23\ToDo\obj\Debug\net8.0\ToDo.dll
+C:\taller25\tptaller\tp8\tl1-tp8-2025-zequi23\ToDo\obj\Debug\net8.0\refint\ToDo.dll
+C:\taller25\tptaller\tp8\tl1-tp8-2025-zequi23\ToDo\obj\Debug\net8.0\ToDo.pdb
+C:\taller25\tptaller\tp8\tl1-tp8-2025-zequi23\ToDo\obj\Debug\net8.0\ToDo.genruntimeconfig.cache
+C:\taller25\tptaller\tp8\tl1-tp8-2025-zequi23\ToDo\obj\Debug\net8.0\ref\ToDo.dll
